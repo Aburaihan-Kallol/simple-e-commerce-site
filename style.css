@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.icon mx-auto px-5{
+    transition: .3s ease-in-out;
+}
+.icon mx-auto px-5:hover{
+    transform: scale(1.1);
+}
